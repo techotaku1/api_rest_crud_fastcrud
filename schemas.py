@@ -9,6 +9,6 @@ class CreatePersonaSchema(BaseModel):
 
         
 class UpdatePersonaSchema(BaseModel):
-                    nombre: str | None = None
-                    fecha: datetime.datetime | None = None
-                    edad: int | None = None
+    nombre: str | None = None
+    fecha: datetime.datetime | None = None
+    edad: int | None = None
