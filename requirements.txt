@@ -1,0 +1,5 @@
+fastcrud
+uvicorn
+fastapi
+sqlalchemy
+aiosqlite

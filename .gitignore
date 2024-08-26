@@ -1,0 +1,15 @@
+# Ignorar carpetas de entornos virtuales
+venv/
+.env/
+
+# Ignorar archivos de base de datos SQLite
+*.db
+*.sqlite3
+
+# Ignorar archivos de configuración de editor de texto
+.vscode/
+.idea/
+
+# Ignorar archivos de compilación de Python
+__pycache__/
+*.py[cod]
