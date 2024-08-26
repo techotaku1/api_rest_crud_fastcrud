@@ -1,2 +1,5 @@
-https://github.com/igorbenav/fastcrud
-pip install fastcrud
+fastcrud
+uvicorn
+fastapi
+sqlalchemy
+aiosqlite
