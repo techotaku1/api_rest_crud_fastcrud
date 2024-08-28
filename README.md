@@ -4,12 +4,26 @@
 
 Este proyecto muestra cómo construir una API CRUD completa utilizando **FastAPI** y **FastCRUD**. Incluye la configuración inicial y la implementación de endpoints para operaciones CRUD básicas.
 
+Utilizar Base de datos **SQLITE**.
+
 ## Instalación
 
 1. **Instala las dependencias:**
 
    ```bash
    pip install fastcrud
+   ```
+   ```bash
+   pip install aiosqlite
+   ```
+   ```bash
+   pip install sqlalchemy
+   ```
+   ```bash
+   pip install fastapi
+   ```
+   ```bash
+   pip install uvicorn
    ```
 
 2. **Ejecuta la aplicación:**
