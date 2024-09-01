@@ -29,7 +29,7 @@ Utilizar Base de datos **SQLITE**.
 2. **Ejecuta la aplicación:**
 
    ```bash
-   uvicorn main:app --reload --host 0.0.0.0 --port 8000
+   uvicorn main:app --reload
    ```
 
 3. **Accede a la documentación:**
@@ -42,6 +42,12 @@ Utilizar Base de datos **SQLITE**.
 - **Leer:** `GET /personas/{id}`
 - **Actualizar:** `PUT /personas/{id}`
 - **Eliminar:** `DELETE /personas/{id}`
+  
+## REQUIREMENTS
+
+- **PYTHON:** LENGUAJE
+- **FASTAPI:** FRAMEWORK
+- **SQLITE:** BASE DE DATOS
 
 ## Créditos
 
