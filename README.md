@@ -45,7 +45,7 @@ Utilizar Base de datos **SQLITE**.
 
 ## Créditos
 
-Este proyecto utiliza [FastCRUD](https://github.com/igorbenav/fastcrud) para simplificar la creación de endpoints CRUD. Agradecemos al autor del repositorio de FastCRUD por proporcionar esta útil herramienta. [@igorbenav](https://github.com/igorbenav/)
+Este proyecto utiliza [FastCRUD](https://github.com/igorbenav/fastcrud) para simplificar la creación de endpoints CRUD. Agradecemos al autor del repositorio de FastCRUD por proporcionar esta útil herramienta. by [@igorbenav](https://github.com/igorbenav/)
 
 ---
 
